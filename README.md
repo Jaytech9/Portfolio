@@ -1,4 +1,4 @@
-🌐 Professional Portfolio – Jones Yaw Kwamehene
+🌐 Professional Portfolio – Jones Yaw Kwamehene (https://jaytech9.github.io/Portfolio/)
 
 A modern, responsive personal portfolio showcasing expertise in Data Analytics, Artificial Intelligence, Information Technology, Cybersecurity, and AgriTech.
 The site highlights my projects, certifications, and journey, while serving as a hub for collaboration opportunities.
@@ -206,3 +206,4 @@ This project is licensed under the MIT License – see the LICENSE
 🐙 GitHub: @Jaytech9
 
 Made with 💡 technology, 📊 data, and 🌱 innovation
+
